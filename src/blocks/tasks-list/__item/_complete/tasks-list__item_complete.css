@@ -1,0 +1,4 @@
+.tasks-list__item_complete{
+    background-color: green;
+    text-decoration: line-through;
+}

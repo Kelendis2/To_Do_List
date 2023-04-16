@@ -1,0 +1,17 @@
+.tasks{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 600px;
+    align-items: center;
+}
+
+@media all and (max-width: 800px){
+    .tasks{
+        max-width: 400px;
+    }
+}
+@media all and (max-width: 350px){
+    .tasks{
+        max-width: 300px;
+    }
+}

@@ -1,0 +1,11 @@
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/data/data.css);
+@import url(../blocks/data/__input/data__input.css);
+@import url(../blocks/data/__button-save/data__button-save.css);
+@import url(../blocks/tasks-list/tasks-list.css);
+@import url(../blocks/tasks-list/__item/tasks-list__item.css);
+@import url(../blocks/tasks-list/__item/_complete/tasks-list__item_complete.css);
+@import url(../blocks/tasks/tasks.css);
+

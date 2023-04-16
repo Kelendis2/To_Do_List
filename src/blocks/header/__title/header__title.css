@@ -1,0 +1,20 @@
+.header__title{
+    margin: 30px;
+    padding: 0;
+    font-size: 60px;
+    text-align: center;
+    background: linear-gradient(to left, #9b7a0d, #015815);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+@media all and (max-width: 800px){
+    .header__title{
+        font-size: 30px;
+    }
+}
+@media all and (max-width: 350px){
+    .header__title{
+        font-size: 15px;
+    }
+}

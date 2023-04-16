@@ -1,0 +1,9 @@
+.data{
+
+    margin: 10px auto 50px;
+    max-width: 600px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.page {
+    background-image: url("../../image/background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: white;
+    width: 100%;
+    min-height: 100vh;
+    color: black;
+    font-family: 'Inter', Arial, sans-serif;
+    background-position: center;
+}

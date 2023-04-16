@@ -1,0 +1,9 @@
+.tasks-list__item{
+    background-color: rgba(0, 0, 0, .3);
+    margin: 0;
+    margin-top: 10px;
+    width: 100%;
+    padding: 5px;
+    background-color: white;
+    color: black;
+}
